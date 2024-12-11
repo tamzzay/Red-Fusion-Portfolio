@@ -26,7 +26,7 @@
 
 2. Navigate to the project folder:
 
-cd RedFusion-Portfolio
+cd Red-Fusion-Portfolio
 
 3. Open the index.html file in your web browser to view the portfolio.
 
