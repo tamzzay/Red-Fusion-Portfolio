@@ -22,7 +22,7 @@
 ## 🚀 How to Use  
 1. Clone this repository:  
 
-   git clone https://github.com/yourusername/RedFusion-Portfolio.git
+   git clone https://github.com/tamzzay/Red-Fusion-Portfolio.git
 
 2. Navigate to the project folder:
 
